@@ -1,4 +1,5 @@
 # Project in algorithmic trading
-- Estudiante ANDRES DUVAN CHAVES MOSQUERA
-- CURSO DE ALGORITMOS
+- Universidad Nacional De Colombia
 - 2019-1
+- Asignatura: ALGORITMOS
+- Estudiante: ANDRES DUVAN CHAVES MOSQUERA
